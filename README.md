@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 8 problems · 1 labs · 0 math
+**10** solved · 9 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-10-10 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-10 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-10-10 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
+| [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-11 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-10-10 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-10 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-09 | [solution](problems/0219-derivative-of-softmax) |
