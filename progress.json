@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:36:21.049Z",
+  "generated_at": "2026-10-28T13:05:16.482Z",
   "items": {
     "problem:219": {
       "kind": "problem",
@@ -202,6 +202,19 @@
       "path": "math/0035-matrix-calculus-identities",
       "first_solved_at": "2026-10-28T12:36:20.223Z",
       "last_pushed_at": "2026-10-28T12:36:20.223Z"
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-10-28T13:05:15.785Z",
+      "last_pushed_at": "2026-10-28T13:05:15.785Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
